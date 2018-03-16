@@ -1,0 +1,13 @@
+img	{
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+	height: 300px;
+}
+
+p{
+	font-family: 'Roboto', sans-serif;
+	font-size: 26px;
+	margin: 1.66%;
+	text-transform: uppercase;
+}
