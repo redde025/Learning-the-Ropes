@@ -1,0 +1,3 @@
+Here is a better looking photo gallery website that I made with bootstrap and font.awesome.
+Its more dynamic and scales to size for different screen sizes, and has an active dropdown menu.
+Each tag in the drop down menu and navbar are working achor tags but dont go anywhere as it is a single page website.
